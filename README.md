@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 :baby_chick: Hi, here is amiriox, small transparent developer, OIer
-<table>
-<tr>
-<td valign="top" width="50%">
 
 <!--
 **AMIRIOX/AMIRIOX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +16,10 @@
 - 📫 How to reach me: [wumingyun2120@outlook.com](mailto://wumingyun2120@outlook.com)
 - 😄 Pronouns: Ming Ming 
 - ⚡ Fun fact: I am a middle school student now!
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 #### 🔭 <a href="https://github.com/AMIRIOX?tab=repositories" target="_blank">Main Repository</a>
 * <a href='https://github.com/AMIRIOX/leaping-octopus' target='_blank'>Android Game: Leaping Octopus</a> - 2020-07-15
