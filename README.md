@@ -31,6 +31,7 @@
 </td>
 <td valign="top" width="50%">
 #### 🤔 <a href="#" target="_blank">Code Time</a>
+ 
 ```text
  
 _______________________________________________________.
@@ -54,5 +55,5 @@ CMake              3 mins  ░░░░░░░░░░░░░░░░░�
 * I am not a funny soul.
 </td>
   </tr> -->
-  </table>
+</table>
 
