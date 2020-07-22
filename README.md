@@ -20,7 +20,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
-#### 🔭 <a href="https://github.com/AMIRIOX?tab=repositories" target="_blank">Main Repository/a>
+#### 🔭 <a href="https://github.com/AMIRIOX?tab=repositories" target="_blank">Main Repository</a>
 
 
 
@@ -68,7 +68,7 @@ CMake              3 mins  ░░░░░░░░░░░░░░░░░�
 #### 🌱<a href="#" target="_blank">Funny Soul</a>
 
 <!-- douban starts -->
-I am not a funny soul.
+* I am not a funny soul.
 <!-- douban ends -->
 
 </td>
