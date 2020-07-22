@@ -11,14 +11,14 @@
 
 <!--Here are some ideas to get you started:-->
 
-<!--- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning `algorithms`, `OI` and `Rust Programming Language`.
- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+- 🔭 I’m currently working on `Compilation principle` .
+- 🌱 I’m currently learning `Algorithms`, `OI` and `Rust Programming Language`.
+- 👯 I’m looking to collaborate on `Aircraft` Project . 
+- 🤔 I’m looking for help with `Develop qt project on vscode with cmake` .
+<!-- 💬 Ask me about `wumingyun2120@outlook.com` .-->
+- 📫 How to reach me: [wumingyun2120@outlook.com](mailto://wumingyun2120@outlook.com)
+- 😄 Pronouns: Ming Ming 
+- ⚡ Fun fact: I am a middle school student now!
 
 #### 🔭 <a href="https://github.com/AMIRIOX?tab=repositories" target="_blank">Main Repository</a>
 * <a href='https://github.com/AMIRIOX/leaping-octopus' target='_blank'>Android Game: Leaping Octopus</a> - 2020-07-15
@@ -31,12 +31,14 @@
 <td valign="top" width="50%">
 #### 🤔 <a href="#" target="_blank">Code Time</a>
 ```text
+ 
 _______________________________________________________.
 C++         6 hrs 44 mins  █████████████▒░░░░░░  68.9% |
 Rust        2 hrs 26 mins  ████▒░░░░░░░░░░░░░░░  24.9% |
 Java              33 mins  ▒░░░░░░░░░░░░░░░░░░░  0.05% |
 CMake              3 mins  ░░░░░░░░░░░░░░░░░░░░  0.00% |
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+
 ```
 </td>
 </tr>
