@@ -12,11 +12,10 @@
 - 🌱 I’m currently learning `Algorithms`, `OI` and `Rust Programming Language`.
 - 👯 I’m looking to collaborate on `Aircraft` Project . 
 - 🤔 I’m looking for help with `Develop qt project on vscode with cmake` .
-<!-- 💬 Ask me about `wumingyun2120@outlook.com` .-->
 - 📫 How to reach me: [wumingyun2120@outlook.com](mailto://wumingyun2120@outlook.com)
 - 😄 Pronouns: Ming Ming 
 - ⚡ Fun fact: I am a middle school student now!
-
+<!-- 💬 Ask me about `wumingyun2120@outlook.com` .-->
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -30,6 +29,7 @@
 * <a href='https://github.com/MystaticDevelopers/aircraft-demo' target='_blank'>[Mystc] Aircraft demo code</a> - 2020-07-19
 </td>
 <td valign="top" width="50%">
+ 
 #### 🤔 <a href="#" target="_blank">Code Time</a>
  
 ```text
