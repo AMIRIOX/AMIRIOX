@@ -36,10 +36,14 @@
  
 ```text
 
-C++         6 hrs 44 mins  █████████████▒░░░░░░  68.9% 
-Rust        2 hrs 26 mins  ████▒░░░░░░░░░░░░░░░  24.9% 
-Java              33 mins  ▒░░░░░░░░░░░░░░░░░░░  0.05% 
-CMake              3 mins  ░░░░░░░░░░░░░░░░░░░░  0.00% 
+C++         11 hrs 5 mins  █████████████▒░░░░░░  NaN% 
+Rust        2 hrs 26 mins  █████████████▒░░░░░░  NaN% 
+Java              52 mins  █████████████▒░░░░░░  NaN% 
+Markdown          49 mins  █████████████▒░░░░░░  NaN%
+Batchfile         28 mins  █████████████▒░░░░░░  NaN%
+Python             8 mins  █████████████▒░░░░░░  NaN%
+Git Config         8 mins  █████████████▒░░░░░░  NaN%
+CMake              3 mins  █████████████▒░░░░░░  NaN% 
 
 ```
 </td>
