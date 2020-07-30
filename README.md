@@ -37,13 +37,13 @@
 ```text
 
 C++         11 hrs 5 mins  █████████████▒░░░░░░  NaN% 
-Rust        2 hrs 26 mins  █████████████▒░░░░░░  NaN% 
+Rust        5 hrs 41 mins  █████████████▒░░░░░░  NaN% 
 Java              52 mins  █████████████▒░░░░░░  NaN% 
 Markdown          49 mins  █████████████▒░░░░░░  NaN%
+CMake             34 mins  █████████████▒░░░░░░  NaN% 
 Batchfile         28 mins  █████████████▒░░░░░░  NaN%
 Python             8 mins  █████████████▒░░░░░░  NaN%
 Git Config         8 mins  █████████████▒░░░░░░  NaN%
-CMake              3 mins  █████████████▒░░░░░░  NaN% 
 
 ```
 </td>
