@@ -20,14 +20,17 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🔭 <a href="https://github.com/AMIRIOX?tab=repositories" target="_blank">Main Repository</a>
+### 🔭 <a href="https://github.com/AMIRIOX?tab=repositories" target="_blank">Main Status</a> 
+
+[![airx's github stats](https://github-readme-stats.vercel.app/api?username=AMIRIOX)
+<!--#### 🔭 <a href="https://github.com/AMIRIOX?tab=repositories" target="_blank">Main Repository</a>
 * <a href='https://github.com/AMIRIOX/leaping-octopus' target='_blank'>Android Game: Leaping Octopus</a> - 2020-07-15
 * <a href='https://github.com/AMIRIOX/MyLuoguRepo' target='_blank'>MyLuoguRepo</a> - 2020-07-20
 * <a href='https://github.com/AMIRIOX/Golden-Touch' target='_blank'>Golden-Touch</a> - 2020-07-23
 * <a href='https://github.com/AMIRIOX/SpjWeather' target='_blank'>SpjWeatherSys</a> - 2020-05-*
 * <a href='https://github.com/AMIRIOX/JvavLlvmCompiler' target='_blank'>[archived] A LLVM-based Compiler</a> - 2020-06-*
 * <a href='https://github.com/AMIRIOX/AMIRIOX.github.io' target='_blank'>My blog by hexo</a> - 2020-06-*
-* <a href='https://github.com/MystaticDevelopers/aircraft-demo' target='_blank'>[Mystc] Aircraft demo code</a> - 2020-07-19
+* <a href='https://github.com/MystaticDevelopers/aircraft-demo' target='_blank'>[Mystc] Aircraft demo code</a> - 2020-07-19-->
 
 </td>
 <td valign="top" width="50%">
