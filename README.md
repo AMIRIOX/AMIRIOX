@@ -22,7 +22,7 @@
 
 ### 🔭 <a href="https://github.com/AMIRIOX?tab=repositories" target="_blank">Main Status</a> 
 
-[![airx's github stats](https://github-readme-stats.vercel.app/api?username=AMIRIOXa&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![airx's github stats](https://github-readme-stats.vercel.app/api?username=AMIRIOX&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--#### 🔭 <a href="https://github.com/AMIRIOX?tab=repositories" target="_blank">Main Repository</a>
 * <a href='https://github.com/AMIRIOX/leaping-octopus' target='_blank'>Android Game: Leaping Octopus</a> - 2020-07-15
