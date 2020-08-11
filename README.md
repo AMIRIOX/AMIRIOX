@@ -38,6 +38,10 @@
  
 #### 🤔 <a href="#" target="_blank">Code Time</a>
  
+ 
+ ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=netcan&hide=ipynb,html&layout=compact)
+ 
+<!--
 ```text
 
 C++         11 hrs 5 mins  █████████████▒░░░░░░  NaN% 
@@ -50,6 +54,8 @@ Python             8 mins  █████████████▒░░░�
 Git Config         8 mins  █████████████▒░░░░░░  NaN%
 
 ```
+-->
+
 </td>
 </tr>
 <!--<tr>
