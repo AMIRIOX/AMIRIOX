@@ -35,10 +35,9 @@
 </td>
 <td valign="top" width="50%">
  
-#### 🤔 <a href="#" target="_blank">Code Time</a>
- 
- 
+<!-- #### 🤔 <a href="#" target="_blank">Code Time</a>
  ![airx's Language](https://github-readme-stats.vercel.app/api/top-langs/?username=AMIRIOX)
+ -->
  
 <!--
 ```text
