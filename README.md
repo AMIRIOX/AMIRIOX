@@ -8,7 +8,7 @@
 
 <!--Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on `Compilation principle` .
+- 🔭 I’m currently working on `C++ Multithreading` .
 - 🌱 I’m currently learning `Algorithms`, `OI` and `Rust Programming Language`.
 - 👯 I’m looking to collaborate on `Aircraft` Project . 
 - 🤔 I’m looking for help with `Develop qt project on vscode with cmake` .
