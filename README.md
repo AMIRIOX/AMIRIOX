@@ -2,20 +2,29 @@
 
 :baby_chick: Hi, here is amiriox, small transparent developer, OIer
 
+> 这是意料之中的事情, 我们只要把自己的事情干好就可以了。  
 <!--
 **AMIRIOX/AMIRIOX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <!--Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on `C++ Multithreading` .
-- 🌱 I’m currently learning `Algorithms`, `OI` and `Rust Programming Language`.
+<!-- - 🔭 I’m currently working on `C++ Multithreading` .-->
+
+- 🌱 I’m currently learning `Algorithms` and `Rust and Java programming language`.
 - 👯 I’m looking to collaborate on `Aircraft` Project . 
-- 🤔 I’m looking for help with `Develop qt project on vscode with cmake` .
+- 🤔 I’m looking for help with `school exam` .
 - 📫 How to reach me: [wumingyun2120@outlook.com](mailto://wumingyun2120@outlook.com)
-- 😄 Pronouns: Ming Ming 
-- ⚡ Fun fact: I am a middle school student now!
-<!-- 💬 Ask me about `wumingyun2120@outlook.com` .-->
+- 💬 Sites: 
+ - https://github.com/AMIRIOX
+ - https://www.luogu.com.cn/user/320697
+ - [![](http://cfrating.ihcr.top/?user=AMIRIOX)](https://codeforces.ml/profile/AMIRIOX)
+
+[![airx's github stats](https://github-readme-stats.vercel.app/api?username=AMIRIOX)](https://github.com/AMIRIOX)
+
+<!-- - 😄 Pronouns: Ming Ming -->
+<!-- - ⚡ Fun fact: I am a middle school student now! -->
+<!-- - 💬 Ask me about `wumingyun2120@outlook.com` .-->
 
 <!-- <table>
 <tr>
