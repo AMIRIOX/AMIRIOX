@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# ☭☭☭
+
 :baby_chick: Hi, here is amiriox, small transparent developer, OIer
 
 > 这是意料之中的事情, 我们只要把自己的事情干好就可以了。  
