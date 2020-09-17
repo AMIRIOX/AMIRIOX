@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-# ☭☭☭
+# <font size="4"><font color="#dd0000"> ☭☭☭ </font></font><br /> 
+
 
 :baby_chick: Hi, here is amiriox, small transparent developer, OIer
 
