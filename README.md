@@ -23,13 +23,12 @@
  - [wumingyun2120@outlook.com](mailto://wumingyun2120@outlook.com)
  - [GitHub](https://github.com/AMIRIOX)
  - [Luogu](https://www.luogu.com.cn/user/320697)
- - **CodeForces: **[![](http://cfrating.ihcr.top/?user=AMIRIOX)](https://codeforces.ml/profile/AMIRIOX)
+ - **CodeForces:** [![](http://cfrating.ihcr.top/?user=AMIRIOX)](https://codeforces.ml/profile/AMIRIOX)
 
 # My Stack
  - ![C++](https://camo.githubusercontent.com/3ef98eb6ed1a4fb0c93e290f06970a9457fa9daf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c616e67756167652d432b2b2d6633346237643f7374796c653d666f722d7468652d6261646765266c6f676f3d43253242253242)
  - ![Java](https://camo.githubusercontent.com/505a2cd6f2281034baaaad8e87004051637a2f23/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c616e67756167652d4a6176612d6230373231393f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661)
  - ![Shell](https://camo.githubusercontent.com/7efde28eecd46f40384c2a90b3436d2a50e69a24/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c616e67756167652d5368656c6c2d3839653035313f7374796c653d666f722d7468652d6261646765266c6f676f3d676e752d62617368)
- - 
 
 [![airx's github stats](https://github-readme-stats.vercel.app/api?username=AMIRIOX)](https://github.com/AMIRIOX)
 
