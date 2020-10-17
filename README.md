@@ -19,6 +19,10 @@
 - 🤔 I’m looking for help with `school exam` .
 - 📫 How to reach me: [wumingyun2120@outlook.com](mailto://wumingyun2120@outlook.com)
 - 💬 Sites: -->
+![](https://img.shields.io/badge/manjaro-Linux%205.8.11-1770ff?style=for-the-badge&logo=manjaro)
+
+![](https://img.shields.io/badge/Arch-Linux%205.8.11-1770ff?style=for-the-badge&logo=arch-linux)
+
 # How to reach me
  - [wumingyun2120@outlook.com](mailto://wumingyun2120@outlook.com)
  - [GitHub](https://github.com/AMIRIOX)
