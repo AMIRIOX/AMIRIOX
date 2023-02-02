@@ -3,7 +3,9 @@
 <!-- # <font size="4"><font color="#dd0000"> ☭☭☭ </font></font><br /> -->
 
 
-:baby_chick: Hi, here is amiriox, small transparent developer, OIer
+:baby_chick: Hi, here is amiriox, retire OIer, lazy developer and Senior Grade Three Students.
+
+ID：`amiriox`; `牧之原偏微分算子`; `深潜的第k兽`;
 
 
 # How to reach me
@@ -11,6 +13,8 @@
  - [GitHub](https://github.com/AMIRIOX)
  - [Luogu](https://www.luogu.com.cn/user/320697)
  - **CodeForces:** [![](http://cfrating.ihcr.top/?user=AMIRIOX)](https://codeforces.ml/profile/AMIRIOX)
+ - skype@amiriox: amiriox
+ - ICQ@amiriox: ingo amiriox
 
 [![airx's github stats](https://github-readme-stats.vercel.app/api?username=AMIRIOX&show_icons=true&icon_color=CE1D2D)](https://github.com/AMIRIOX)
 
